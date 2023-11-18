@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:iot_ui_challenge/pages/control_panel/control_panel_page.dart';
 import 'package:smart_home/pages/home/home_page.dart';
 
 void main() {
